@@ -1,8 +1,38 @@
-# React + Vite
+# 📈 CryptoList
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 🚀 **Project Overview**
+CryptoList is a cryptocurrency marketplace app that displays real-time crypto prices, market caps, and trends. Users can search, filter, and visualize historical price data using intuitive charts.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ **Tech Stack**
+- **Frontend**: React.js, Context API, React Router
+- **Styling**: CSS, Material-UI
+- **API Integration**: CoinGecko API
+- **Charts**: Google Charts
+- **Version Control**: Git & GitHub
+
+---
+
+## 🌟 **Features**
+
+1. **Home Page**  
+   - Displays real-time prices and market caps of top 10 coins.
+   - Search and filter coins dynamically.
+
+2. **Currency Selection**  
+   - Switch between USD, INR, and EUR.
+
+3. **Detailed Coin View**  
+   - Historical price trends shown using Line Charts.
+
+4. **Responsive Design**  
+   - Optimized for all devices.
+
+---
+
+## 🔧 **Setup Instructions**
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shabareenath/CryptoList.git
